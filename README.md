@@ -13,6 +13,10 @@ ComyfyUI Manager (which is included by defaulkt in ComfyUI these days)
 Install:
 
 git the repo into .\ComfyUI\custom_nodes
-or download the folder and exract it into .\ComfyUI\custom_nodes folder
+
+```bash
+cd ComfyUI/custom_nodes
+git clone https://github.com/Gothdir/ComfyUI-AppToolbox.git
+```
 
 Restart ComfyUI
